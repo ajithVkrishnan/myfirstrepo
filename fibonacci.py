@@ -22,7 +22,6 @@ n = int(input('enter the limit'))
 f = 0
 s = 1
 print(f)
-print(s)
 for i in range(2,n):
     t=f+s
     print(t)
